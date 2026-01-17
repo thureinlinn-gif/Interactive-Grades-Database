@@ -247,6 +247,7 @@ Command: add 5352794201:HW 3:99
 Command: print
 ```
 ![Adding Entry](https://github.com/user-attachments/assets/4fd4f9cb-dcc3-4fe7-90ec-ef98da4a3dcd)
+
 *Screenshot showing successful addition of a new grade entry*
 
 ---
@@ -255,7 +256,8 @@ Command: print
 ```
 Command: stats Lab 7
 ```
-![Statistics](https://github.com/user-attachments/assets/04c3c9ff-2e85-465c-a6ef-db96fe20b3c1")
+![Statistics](https://github.com/user-attachments/assets/04c3c9ff-2e85-465c-a6ef-db96fe20b3c1)
+
 *Screenshot showing min, max, and mean calculations for Lab 7*
 
 ---
@@ -265,7 +267,8 @@ Command: stats Lab 7
 Command: remove 5352794201:My Cool Assignment 1
 Command: print
 ```
-![Removing Entry](screenshots/04_remove_entry.png)
+![Removing Entry](https://github.com/user-attachments/assets/9de39b5b-6059-4a3d-99dc-941fa764beb8)
+
 *Screenshot showing successful removal of an entry*
 
 ---
@@ -274,19 +277,10 @@ Command: print
 ```
 Command: remove abc
 ```
-![Error Handling](screenshots/05_error_handling.png)
+![Error Handling](https://github.com/user-attachments/assets/9b78ce58-fe8e-48e6-8d8d-21d03c3854b8)
+
 *Screenshot showing input validation and error messages*
 
----
-
-### Saved Changes
-```
-$ cat sample.txt
-```
-![Saved Database](screenshots/06_saved_database.png)
-*Screenshot showing the persisted database file after exiting with Ctrl+D*
-
----
 
 ## 🔧 Technical Highlights
 
