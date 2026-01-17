@@ -246,7 +246,7 @@ Command: print
 Command: add 5352794201:HW 3:99
 Command: print
 ```
-![Adding Entry](screenshots/02_add_entry.png)
+![Adding Entry](https://github.com/user-attachments/assets/4fd4f9cb-dcc3-4fe7-90ec-ef98da4a3dcd)
 *Screenshot showing successful addition of a new grade entry*
 
 ---
@@ -255,7 +255,7 @@ Command: print
 ```
 Command: stats Lab 7
 ```
-![Statistics](screenshots/03_stats.png)
+![Statistics](https://github.com/user-attachments/assets/04c3c9ff-2e85-465c-a6ef-db96fe20b3c1")
 *Screenshot showing min, max, and mean calculations for Lab 7*
 
 ---
