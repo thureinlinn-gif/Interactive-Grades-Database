@@ -234,7 +234,8 @@ Saves all changes and exits the program.
 ```
 Command: print
 ```
-![Initial Database](screenshots/01_initial_print.png)
+![Initial Database](<img width="422" height="240" alt="image" src="https://github.com/user-attachments/assets/e0518fb9-3bcc-488c-92c8-b864269fb02e" />
+)
 *Screenshot showing the initial state of the database with all entries*
 
 ---
