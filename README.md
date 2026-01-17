@@ -433,7 +433,6 @@ EOF
 
 ## 🔍 Code Quality Metrics
 
-- **Lines of Code:** ~800 (excluding comments)
 - **Memory Leaks:** 0 (Valgrind verified)
 - **Compiler Warnings:** 0 (compiled with -Wall -Wextra)
 - **Test Coverage:** All commands and edge cases tested
